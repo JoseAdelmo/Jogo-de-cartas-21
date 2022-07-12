@@ -108,7 +108,7 @@ function stay() {
         message = "Temos um Tie aqui hehe!";
     }
     else if (yourSum > dealerSum) {
-        message = "Você Ganhou";
+        message = "Você Ganhou!";
     }
     else if (yourSum < dealerSum) {
         message = "Você Perdeu";
