@@ -98,20 +98,20 @@ function stay() {
 
     let message = "";
     if (yourSum > 21) {
-        message = "Se Fudeu";
+        message = "Você Perdeu";
     }
     else if (dealerSum > 21) {
-        message = "Você é Foda";
+        message = "Você Ganhou";
     }
     //both you and dealer <= 21
     else if (yourSum == dealerSum) {
-        message = "Tie!";
+        message = "Temos um Tie aqui hehe!";
     }
     else if (yourSum > dealerSum) {
-        message = "Você é Foda";
+        message = "Você Ganhou";
     }
     else if (yourSum < dealerSum) {
-        message = "Se Fudeu";
+        message = "Você Perdeu";
     }
 
     document.getElementById("dealer-sum").innerText = dealerSum;
