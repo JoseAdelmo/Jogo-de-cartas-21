@@ -1,5 +1,5 @@
 # [Black Jack](https://youtu.be/bMYCWccL-3U)
-- Coding Tutorial: https://youtu.be/bMYCWccL-3U
+- Coding Tutorial of the creator: https://youtu.be/bMYCWccL-3U
 - Demo: https://imkennyyip.github.io/black-jack/
 
 - Code modified of the game by myself: https://joseadelmo.github.io/Jogo-de-cartas-21/
